@@ -5,7 +5,8 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/> </div>
 ---
-
+<div align="center"> <img src="https://img.shields.io/badge/Linux-Freedom-orange?style=for-the-badge&logo=linux" alt="Linux"> <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=for-the-badge&logo=kubernetes" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" alt="Terraform"> </div>
+---
 ### 🌟 About Me
 - 🚀 DevOps Engineer specializing in **Infrastructure Automation** and **Cloud Computing**.  
 - 🛠️ **Skills**:  
