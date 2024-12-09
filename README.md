@@ -5,9 +5,7 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/> </div>
 ---
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="400"/> </div>
 
----
 ### 🌟 About Me
 - 🚀 DevOps Engineer specializing in **Infrastructure Automation** and **Cloud Computing**.  
 - 🛠️ **Skills**:  
