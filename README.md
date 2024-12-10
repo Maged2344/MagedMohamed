@@ -1,42 +1,32 @@
-<h1 align="center">Hi 👋, I'm Maged Mohamed</h1>
-<h3 align="center">A Passionate DevOps Engineer Automating the Future!</h3>
+# Hi there 👋, I'm Maged Mohamed
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+
+## 🚀 About Me
+- 🔧 DevOps Engineer with a passion for cloud computing, CI/CD pipelines, and automation.
+- 🌍 Based in cairo, Egypt 🌴.
+- 🛠️ Working with Docker, Kubernetes, AWS, and Terraform.
 
 ---
 
-<div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/> </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/Linux-Freedom-orange?style=for-the-badge&logo=linux" alt="Linux"> <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=for-the-badge&logo=kubernetes" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" alt="Terraform"> </div>
-
----
-
-
-### 🌟 About Me
-- 🚀 DevOps Engineer specializing in **Infrastructure Automation** and **Cloud Computing**.  
-- 🛠️ **Skills**:  
-  - 📦 **Containerization**: Docker, Podman  
-  - ☁️ **Cloud Platforms**: AWS, GCP,  
-  - ⚙️ **CI/CD Pipelines**: Jenkins, GitHub Actions  
-  - 📜 **IaC Tools**: Terraform, Ansible  
-  - 🛡️ **Monitoring**: Prometheus, Grafana  
-
-- 🔗 **Contact**: [LinkedIn](https://linkedin.com/in/maged3mohamed) | [Email Me](mailto:maged3bdelfatah@gmail.com)
+## 🛠️ My Toolbox
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### ⚡ DevOps in Action  
-<div align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="600" height="300"/>
-</div>
+## 📊 GitHub Stats
+![Maged's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagedMohamed&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagedMohamed&layout=compact&theme=radical)
 
 ---
 
-### 🧰 DevOps Toolbox
-```yaml
-Version Control: Git, GitHub
-Containerization: Docker, Kubernetes
-Orchestration: Helm, Minikube
-Cloud: AWS, GCP
-IaC: Terraform, Ansible
-Languages: Bash, Python
-CI/CD: Jenkins, GitHub Actions
-Monitoring: Prometheus, Grafana
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magedmohamed/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/MagedMohamed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MagedDevOps)
